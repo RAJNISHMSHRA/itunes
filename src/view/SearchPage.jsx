@@ -120,7 +120,7 @@ const SearchPage = props => {
             className="site-layout-background container-fluid containt"
             style={{overflow: 'initial'}}
           >
-            <div className=" d-flex justify-content-between pb-5 p-2">
+            <div className=" d-flex justify-content-between pb-0 p-2">
               <span className="content-heading-listofsong">
                 <h5><FormattedMessage id="LIST_OF_SEARCHED_SONG" /> </h5>
               </span>
@@ -130,6 +130,7 @@ const SearchPage = props => {
                 </h5>
               </span>
             </div>
+            <hr className='pb-2 ' />
             {data
               ? <SongContainer songsData={data} />
               : <DefaultPage loader={loader} noSong={noSong} />}

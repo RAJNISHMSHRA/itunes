@@ -19,7 +19,14 @@ a{
 .audio{
     float:left;
     width: 90%;
-    outline: none
+    outline: none;
+    margin-left: 10px;
+}
+.collectionName,.price{
+  font-weight:bold;
+  white-space:nowrap;
+  overflow:hidden;
+  text-overflow:ellipsis;
 }
 .signature{
     float: right;

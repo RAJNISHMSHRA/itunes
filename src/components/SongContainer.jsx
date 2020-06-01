@@ -38,9 +38,13 @@ const SongContainer = props => {
               </h5>
             </marquee>
             <p className="card-text">
-              Some quick example text to build on the card title and make up the bulk of the card's content.
+            <Row className='d-flex justify-content-between flex-row'>
+              <Col span={12} className='d-flex align align-items-center justify-content-center collectionName' >{item.collectionName}</Col>
+              <Col span={12} className='d-flex align align-items-center justify-content-center price'>Price: {item.trackPrice} USD</Col>
+            </Row>
+
             </p>
-            <audio className="audio" src={item.previewUrl} controls>
+            <audio className="audio" src={item.previewUrl}  controls>
               <FormattedMessage id="BROWSER_AUDIO_SUPPORT_MSG" />
             </audio>
           </Card>
