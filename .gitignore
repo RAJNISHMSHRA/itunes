@@ -4,7 +4,11 @@
 /node_modules
 /.pnp
 .pnp.js
-
+npm-debug.log
+node_modules
+yarn-error.log
+build
+package-lock.json
 # testing
 /coverage
 

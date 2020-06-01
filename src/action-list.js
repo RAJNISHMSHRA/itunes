@@ -1,0 +1,2 @@
+export const SONG_FETCHED='SONG_FETCHED';
+export const SONG_FAILURE='SONG_FAILURE'

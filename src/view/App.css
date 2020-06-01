@@ -1,4 +1,26 @@
-.App {
+/* @import 'antd/dist/antd.css'; */
+@import '../../node_modules/antd/dist/antd.css';
+.logo {
+  width: 120px;
+  height: 31px;
+  margin: 16px 28px 16px 0;
+  float: left;
+}
+.logo .LogoText{
+color: #fff;
+font-size: 20px;
+
+}
+
+/* .site-layout-background {
+  background: #fff;
+}
+  .logo {
+    background: rgba(255, 255, 255, 0.863);
+  } */
+
+
+/* .App {
   text-align: center;
 }
 
@@ -35,4 +57,4 @@
   to {
     transform: rotate(360deg);
   }
-}
+} */
