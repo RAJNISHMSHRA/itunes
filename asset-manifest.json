@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/itunes-app/static/css/main.cb256519.chunk.css",
+    "main.js": "/itunes-app/static/js/main.a3b3138e.chunk.js",
+    "main.js.map": "/itunes-app/static/js/main.a3b3138e.chunk.js.map",
+    "runtime-main.js": "/itunes-app/static/js/runtime-main.4fc1fd22.js",
+    "runtime-main.js.map": "/itunes-app/static/js/runtime-main.4fc1fd22.js.map",
+    "static/css/2.fb20f2ef.chunk.css": "/itunes-app/static/css/2.fb20f2ef.chunk.css",
+    "static/js/2.edc0e986.chunk.js": "/itunes-app/static/js/2.edc0e986.chunk.js",
+    "static/js/2.edc0e986.chunk.js.map": "/itunes-app/static/js/2.edc0e986.chunk.js.map",
+    "index.html": "/itunes-app/index.html",
+    "precache-manifest.98f9df6c77914aff65795f4c0c837234.js": "/itunes-app/precache-manifest.98f9df6c77914aff65795f4c0c837234.js",
+    "service-worker.js": "/itunes-app/service-worker.js",
+    "static/css/2.fb20f2ef.chunk.css.map": "/itunes-app/static/css/2.fb20f2ef.chunk.css.map",
+    "static/css/main.cb256519.chunk.css.map": "/itunes-app/static/css/main.cb256519.chunk.css.map",
+    "static/js/2.edc0e986.chunk.js.LICENSE.txt": "/itunes-app/static/js/2.edc0e986.chunk.js.LICENSE.txt",
+    "static/media/am.png": "/itunes-app/static/media/am.cbbfe8b0.png",
+    "static/media/animationmusic.gif": "/itunes-app/static/media/animationmusic.d38ea919.gif",
+    "static/media/avator.jpg": "/itunes-app/static/media/avator.39762912.jpg",
+    "static/media/not found.gif": "/itunes-app/static/media/not found.edd64b4b.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4fc1fd22.js",
+    "static/css/2.fb20f2ef.chunk.css",
+    "static/js/2.edc0e986.chunk.js",
+    "static/css/main.cb256519.chunk.css",
+    "static/js/main.a3b3138e.chunk.js"
+  ]
+}
